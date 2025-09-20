@@ -1,6 +1,6 @@
 # Uppgift 1 – Programmering Nivå 1
 
-## 📖 Beskrivning
+## Beskrivning
 Detta program samlar in personlig information från användaren och skriver ut en sammanfattning.  
 Uppgiften tränar på:
 - Variabler och datatyper (`str`, `int`, `float`)
@@ -11,7 +11,7 @@ Uppgiften tränar på:
 
 ---
 
-## ▶️ Så här kör du
+## Så här kör du
 1. Öppna **Kommandotolken** (eller PowerShell).  
 2. Navigera till mappen där filen ligger:  
    ```bash
@@ -25,7 +25,7 @@ Uppgiften tränar på:
 
 ---
 
-## 💻 Exempelutskrift
+## Exempelutskrift
 ```
 What is your first name? Sara
 What is your last name? Nilsson
@@ -43,7 +43,7 @@ Country: Sweden
 
 ---
 
-## ✅ Funktioner
+## Funktioner
 - Räknar **ålder** baserat på nuvarande år (2025).  
 - Konverterar **längd från cm till meter**.  
 - Validerar inmatning (förebygger felaktiga värden).  
@@ -51,7 +51,7 @@ Country: Sweden
 
 ---
 
-## 📂 Filstruktur
+## Filstruktur
 ```
 Uppgift-1/
 │
@@ -61,5 +61,5 @@ Uppgift-1/
 
 ---
 
-## ✍️ Författare
-- *Ditt namn här*
+## Författare
+- Lucas Bergman
